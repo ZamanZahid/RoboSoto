@@ -48,6 +48,7 @@ Throughout the project, I continuously added new hardware and software systems t
 Before the RoboSoto was built, the project started with research, planning, and gathering components. I thought about different design ideas, including how many wheels the robot could have, how it could be controlled, the size, and upgraded throughout development. During this stage I collected the needed hardware, including the motors, battery system, board, and controllers.
 
 An initial prototype was made to test component compatibility, motor placement, and overall functionality. This helped me find design limitations early and provided a timeline/roadmap for future development.
+
 ---
 
 ### Stage 1 - Original Robot Build
@@ -59,6 +60,7 @@ An initial prototype was made to test component compatibility, motor placement, 
 With the planning phase done, the first full chassis was made. The motors, wheels, battery system, and Romeo ESP32-S3 controller were mounted and wired together to create a functional four-wheel drive platform.
 
 The goal of this stage was to create a strong and reliable foundation that would be capable of simple movement, including driving forward, backward, and turning. This chassis served as the starting point for all upgrades for the future and gave the physical platform that RoboSoto would continue to evolve from throughout the project.
+
 ---
 
 ### Stage 2 - Figure 8 Navigation
