@@ -1,0 +1,24 @@
+Part,Quantity,Link,Purpose
+
+Romeo ESP32-S3 Robot Controller,1,https://www.dfrobot.com/product-2743.html,Main robot controller and motor driver
+
+FireBeetle ESP32-E IoT Microcontroller,1,https://www.dfrobot.com/product-2231.html,Wireless controller transmitter
+
+DFRobot BNO055 9-Axis IMU,1,https://www.dfrobot.com/product-1793.html,Heading and orientation sensing
+
+DFRobot Analog Photoresistor Sensor,1,https://www.dfrobot.com/product-371.html,Light tracking
+
+DFRobot Digital Push Button Module,2,https://www.dfrobot.com/product-613.html,Bumper collision detection
+
+VEX 393 Motor,4,https://www.vexrobotics.com/393-motors.html,Drive motors
+
+220mm Omni Wheel,4,https://idesign365.com/product/2-75-220mm-travel-omni-directional-anti-static-wheel-2-pack/,Robot wheels
+
+7.2V NiMH 3000mAh Battery Pack,1,https://idesign365.com/product/7-2v-robot-battery-nimh-3000mah/,Robot power source
+
+Joystick Breakout Module,1,https://tinkersphere.com/buttons-switches/922-joystick-breakout-module-arduino-raspberry-pi-compatible.html,Wireless controller input
+Breadboard,1,Generic,Breadboard prototyping
+
+Jumper Wires,1 Pack,Generic,Electrical connections
+
+Custom Wood Laser-Cut Chassis, 1,Custom Designed, Robot structure
