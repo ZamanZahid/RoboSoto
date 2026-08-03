@@ -2,7 +2,7 @@
 
 # RoboSoto - Made by: Zaman Zahid
 
-<img src="Robot%20Images/Final-RoboSoto.png" width="450">
+<img src="IMAGES/Final-RoboSoto.png" width="450">
 
 ### Romeo ESP32-S3 Robotics Platform
 
@@ -42,7 +42,7 @@ Throughout the project, I continuously added new hardware and software systems t
 ### Stage 0 - Project Planning and Prototype
 
 <div align="center">
-<img src="Robot%20Images/Firstimg.png" width="350">
+<img src="IMAGES/Firstimg.png" width="350">
 </div>
 
 Before the RoboSoto was built, the project started with research, planning, and gathering components. I thought about different design ideas, including how many wheels the robot could have, how it could be controlled, the size, and upgraded throughout development. During this stage I collected the needed hardware, including the motors, battery system, board, and controllers.
@@ -54,7 +54,7 @@ An initial prototype was made to test component compatibility, motor placement, 
 ### Stage 1 - Original Robot Build
 
 <div align="center">
-<img src="Robot%20Images/OrigionalVersion-V1.png" width="350">
+<img src="IMAGES/OrigionalVersion-V1.png" width="350">
 </div>
 
 With the planning phase done, the first full chassis was made. The motors, wheels, battery system, and Romeo ESP32-S3 controller were mounted and wired together to create a functional four-wheel drive platform.
@@ -66,7 +66,7 @@ The goal of this stage was to create a strong and reliable foundation that would
 ### Stage 2 - Figure 8 Navigation
 
 <div align="center">
-<img src="Robot%20Images/Figure8.png" width="350">
+<img src="IMAGES/Figure8.png" width="350">
 </div>
 
 One of the first challenges was programming the robot to complete a figure-8 course. The goal was to navigate the entire course without touching any obstacles. Different movement patterns and motor tuning were tested to create smooth turns and consistent driving behavior. This challenge introduced path-planning concepts and showed how software alone could control complex robot movement.
@@ -76,7 +76,7 @@ One of the first challenges was programming the robot to complete a figure-8 cou
 ### Stage 3 - Buttons and Light Tracking
 
 <div align="center">
-<img src="Robot%20Images/Buttons_light.png" width="350">
+<img src="IMAGES/Buttons_light.png" width="350">
 </div>
 
 Next, bumper switches were added to allow the robot to detect collisions and react to obstacles. Once that was completed, a photoresistor was added so the robot could measure light intensity and follow a light source. These additions helped RoboSoto interact with its surroundings instead of simply following pre-programmed commands.
@@ -86,7 +86,7 @@ Next, bumper switches were added to allow the robot to detect collisions and rea
 ### Stage 4 - Chassis Improvements
 
 <div align="center">
-<img src="Robot%20Images/OrigionalVersionTop-V1.png" width="350">
+<img src="IMAGES/OrigionalVersionTop-V1.png" width="350">
 </div>
 
 The robot chassis was redesigned and reorganized to make it smaller and more compact than the original version. A second layer was added, and components were repositioned to improve reliability, simplify wiring, and make future upgrades easier. This stage focused on improving the overall design and creating a cleaner, more practical robot platform.
@@ -96,7 +96,7 @@ The robot chassis was redesigned and reorganized to make it smaller and more com
 ### Stage 5 - Wireless Controller
 
 <div align="center">
-<img src="Robot%20Images/Wireless.png" width="350">
+<img src="IMAGES/Wireless.png" width="350">
 </div>
 
 A wireless controller was added using a FireBeetle ESP32 and ESP-NOW communication. This allowed RoboSoto to be controlled remotely without cables. The project began with multiple buttons for movement control and later transitioned to a joystick system. This provided responsive real-time control while demonstrating wireless communication between two microcontrollers.
@@ -106,7 +106,7 @@ A wireless controller was added using a FireBeetle ESP32 and ESP-NOW communicati
 ### Stage 6 - IMU Integration
 
 <div align="center">
-<img src="Robot%20Images/Imu.png" width="350">
+<img src="IMAGES/Imu.png" width="350">
 </div>
 
 Finally, a BNO055 Inertial Measurement Unit (IMU) was added to provide heading and orientation data. The IMU was securely mounted to the robot and programmed using the Adafruit BNO055 library. By reading orientation data directly from the sensor, RoboSoto could determine its position and heading without relying on timed movements.
@@ -118,7 +118,7 @@ Using the BNO055 sensor, the robot was programmed to perform navigation tasks. R
 ### Final Version
 
 <div align="center">
-<img src="Robot%20Images/Final-RoboSoto.png" width="450">
+<img src="IMAGES/Final-RoboSoto.png" width="450">
 </div>
 
 The completed RoboSoto combines multiple robotics concepts into a single platform. It includes wireless control, sensor integration, autonomous behaviors, and IMU-based navigation. The project demonstrates the progression from a basic robot to a more advanced autonomous robotics platform.
